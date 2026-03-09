@@ -1,12 +1,14 @@
 ---
 title: The impact of AI on everyday life!
 date: 2026-03-09
+categories:
+  - 100 words
 tags:
   - 100words
   - blog
 ---
 
-# My First Post
+# The impact of AI on everyday life!
 
 Today, I feel that AI is truly transforming the way information flows. It seems that if I want to be more precise about the information I share, I need to communicate more and double-check everything with AI.
 I’m not sure how this will improve me in the long run, but it feels like it’s building my confidence to a whole new level.
