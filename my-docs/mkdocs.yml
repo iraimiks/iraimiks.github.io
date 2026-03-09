@@ -1,0 +1,19 @@
+site_name: Iraimiks Blog
+theme:
+  name: material
+  features:
+    - navigation.indexes
+
+plugins:
+  - blog
+
+extra:
+  authors:
+    Iraimiks:
+      name: Iraimiks
+      description: Developer writing about tech
+      
+nav:
+  - index.md
+  - Blog:
+    - blog/index.md
